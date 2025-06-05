@@ -9,11 +9,11 @@ $products = [
 ['Salat', 0]
 ];
 
-//echo rand(1,70000);
+echo rand(1,70000);
 
-//echo mt_rand(1, 20);
+echo mt_rand(1, 20);
 
-//echo random_int(1, 40);
+echo random_int(1, 40);
 
 $length = count($products);
 //for loop
