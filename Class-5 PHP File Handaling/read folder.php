@@ -1,9 +1,9 @@
 <?php
-/*$files = scandir("demo");
+$files = scandir("demo");
 foreach($files as $eachFile){
     echo $eachFile;
 }
-*/
+
 
 
 $file_name = "test.text";
